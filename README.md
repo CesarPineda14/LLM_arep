@@ -57,3 +57,9 @@ export OPENAI_API_KEY='sk-tu-clave-de-api'
 * LangChain: para manejar prompts y cadenas con modelos de OpenAI.
 * Uvicorn: servidor ASGI para ejecutar FastAPI.
 * API de OpenAI: para traducción de lenguaje.
+
+
+![image](https://github.com/user-attachments/assets/f82adef8-711e-4d3b-bd2f-1872ce152e54)
+
+
+![image](https://github.com/user-attachments/assets/73a8f65c-3f55-4e66-ab13-8b922dec413d)
